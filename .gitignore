@@ -1,0 +1,4 @@
+node_modules/
+dist/
+.pio/
+.vscode/.browse.c_cpp.db*
